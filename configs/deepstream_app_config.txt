@@ -13,7 +13,7 @@ perf-measurement-interval-sec=5
 [source0]
 enable=1
 type=3
-uri=file:///opt/nvidia/deepstream/samples/streams/sample_720p.h264
+uri=file:///opt/nvidia/deepstream/deepstream/samples/streams/sample_720p.h264
 num-sources=1
 gpu-id=0
 cudadec-memtype=0
